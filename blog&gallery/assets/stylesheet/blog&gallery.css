@@ -81,6 +81,7 @@ header nav a{
     margin-top: 25px;
     padding: 25px;
     justify-content: center;
+    align-items: center;
     justify-content: space-between;
 }
 
@@ -94,7 +95,7 @@ header nav a{
 .container .data_left p{
     font-size: 20px;
     line-height: 27px;
-    margin-top: 20px;
+    /* margin-top: 20px; */
 }
 .container .image_right{
     width: 47%;
